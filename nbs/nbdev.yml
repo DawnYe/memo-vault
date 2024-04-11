@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "memo-vault"
+  site-url: "https://DawnYe.github.io/memo-vault"
+  description: "A repository to store and retrieve essential programming notes."
+  repo-branch: main
+  repo-url: "https://github.com/DawnYe/memo-vault"
